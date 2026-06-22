@@ -2,7 +2,7 @@
 
 Extract structured data from [google.com](https://google.com) — Find real-estate agents, realtors and brokers on Google Maps (google.com/maps) — name, category, address, phone, website, emails, tech stack, and a 0–100 lead score. Built for real-estate SMMA & recruiting outreach. Geo-accurate, pay per result.
 
-**[Real Estate Lead Scraper on Apify →](https://apify.com/blackfalcondata/real-estate-lead-scraper?fpr=1h3gvi)**
+**[Real Estate Lead Scraper on Apify →](https://apify.com/blackfalcondata/google-maps-real-estate-lead-scraper?fpr=1h3gvi)**
 
 ---
 
@@ -152,7 +152,7 @@ One object per listing. Here is a real example from a production run:
 
 *Truncated — full records contain 32 fields. See Output fields for the complete schema.*
 
-**[Try Real Estate Lead Scraper now — $5 free credit, no credit card →](https://apify.com/blackfalcondata/real-estate-lead-scraper?fpr=1h3gvi)**
+**[Try Real Estate Lead Scraper now — $5 free credit, no credit card →](https://apify.com/blackfalcondata/google-maps-real-estate-lead-scraper?fpr=1h3gvi)**
 
 ---
 
@@ -170,7 +170,7 @@ Pay only for what you extract. No subscription required — Apify's free $5 cred
 | Email verified | $undefined |
 | Tech stack detected | $undefined |
 
-See the [actor on Apify](https://apify.com/blackfalcondata/real-estate-lead-scraper?fpr=1h3gvi) for current pricing.
+See the [actor on Apify](https://apify.com/blackfalcondata/google-maps-real-estate-lead-scraper?fpr=1h3gvi) for current pricing.
 
 ---
 
@@ -204,7 +204,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 New to Apify? [Create a free account with $5 credit](https://console.apify.com/sign-up?fpr=1h3gvi) — no credit card required.
 
 1. Sign up — $5 platform credit included
-2. Open [Real Estate Lead Scraper](https://apify.com/blackfalcondata/real-estate-lead-scraper?fpr=1h3gvi) and configure your input
+2. Open [Real Estate Lead Scraper](https://apify.com/blackfalcondata/google-maps-real-estate-lead-scraper?fpr=1h3gvi) and configure your input
 3. Click **Start** — export results as JSON, CSV, or Excel
 
 Need more later? [See Apify pricing](https://apify.com/pricing?fpr=1h3gvi).
